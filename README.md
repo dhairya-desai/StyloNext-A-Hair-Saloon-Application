@@ -6,8 +6,8 @@
 ## Features
 **Online Booking**: The application allows customers to book appointments online.      
 **Appointment Management**: The application helps the salon staff to manage appointments and schedules, including rescheduling, cancellations and notifications.    
-**Customer Management** : The application allows salon staff to manage customer profiles, preferences, and history, including appointment history.    
-**Payment Processing** : The application allows customers to make payments online or in-store, including mobile payments, or cash.
+**Customer Management**: The application allows salon staff to manage customer profiles, preferences, and history, including appointment history.    
+**Payment Processing**: The application allows customers to make payments online or in-store, including mobile payments, or cash.
 
 ## Scope
 This App also aims to enhance the user experience by providing a range of
