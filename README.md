@@ -5,7 +5,7 @@
 
 ## Features
 ➢ Online Booking: The system should allow customers to book appointments online  
-through the app, website, or social media platforms.
+through the app, website, or social media platforms.  
 ➢ Appointment Management: The system should allow salon staff to manage appointments and schedules, including rescheduling, cancellations, and  
 notifications.  
 ➢ Customer Management: The system should allow salon staff to manage customer
